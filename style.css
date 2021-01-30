@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+h1,h2 {
+    color:hotpink;
+    font-size:20px;
+    font-family: cursive;
+}
+#hobby {
+    background-color: deepskyblue;
+    text-align: center;
+}
+#cartoon {
+    background-color: greenyellow;
+    text-align: center;
+}
+#color {
+    background-color:yellow;
+    text-align: center;
+}
+img {
+    
+    border-style: solid;
+    border-color: deeppink;
+    padding: 5px;
+    width: 300px;
+    height: 400px;
+
+}
+
+#p1,#p2,#p3 {
+    color:hotpink;
+    font-size:20px;
+    font-family: cursive;
+}
+}
